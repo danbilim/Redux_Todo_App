@@ -1,0 +1,21 @@
+// TodoTemplate.scss
+.TodoTemplate{
+    width:512px;
+    margin:6rem auto;
+    //em=(부모기준)16px=100%,
+    //rem = root(body기준) 현재18px x 6rem = 108px
+    border-radius:4px;
+    overflow:hidden;
+    .app-title{
+        background:#22b8cf;
+        color:#fff;
+        height:4rem;
+        font-size:1.5rem;
+        display:flex;
+        justify-content:center;
+        align-items: center;
+    }
+    .content{
+      background:#fff;  
+    }
+}
