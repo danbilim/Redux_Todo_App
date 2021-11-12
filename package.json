@@ -12,7 +12,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
+    "react-redux": "^7.2.6",
     "react-scripts": "4.0.3",
+    "redux": "^4.1.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -39,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://danbilim.github.io/Todo_App_2021"
+  "homepage": "https://danbilim.github.io/Redux_Todo_App",
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.9"
+  }
 }
